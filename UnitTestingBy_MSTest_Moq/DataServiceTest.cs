@@ -1,7 +1,7 @@
 ﻿using DataProject;
 using Moq;
 
-namespace UnitTestingBy_MSTest_Moq
+namespace UnitTestingBy_Moq_MSTest
 {
     [TestClass]
     public sealed class DataServiceTest
